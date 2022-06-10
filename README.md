@@ -1,1 +1,1 @@
-# IceCreamShopInventorySystem
+# IceCream Shop Inventory System
